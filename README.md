@@ -13,7 +13,7 @@ We initiated our data collection process on the last week of Feb, 2022 when the 
 | ----------- | ----------- |
 | user information     | profile ID, profile name, profile image, and profile description       |
 | post content  | the main text, as well as any images and videos attached, if available      |
-| post metdata  | the \# of likes and shares on the post      |
+| post metadata  | the \# of likes and shares on the post      |
 | post comments | information similar to the previous three rows, for all comments underneath a user post      |
 
 We are continuing the data collection process to follow the latest development of events in the ongoing crisis, and will update our dataset daily. 
