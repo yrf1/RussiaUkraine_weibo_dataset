@@ -8,7 +8,7 @@ Online social networks such as Twitter and Weibo play an important role in how p
 <img src="east_europe_map.png" width="200">
 
 ### Dataset Details
-We initiated our data collection process on the last week of Feb, 2022 when the crisis escalated with Russia's special military operation. The following information are included in the *Russia-Ukraine Crisis Weibo (RUW) dataset*:
+We initiated our data collection process on the last week of Feb, 2022 when the crisis escalated with Russia's special military operation. The following information are included in the *Russia-Ukraine Crisis Weibo (RUW)* dataset:
 |      |  |
 | ----------- | ----------- |
 | user information     | profile ID, profile name, profile image, and profile description       |
