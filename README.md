@@ -22,7 +22,7 @@ We are continuing the data collection process to follow the latest development o
 There are many interesting task settings that can be experimented with, using our Russo-Ukranian Crises Weibo dataset. These include event clustering, false rumor detection, and portability of news analytic methodologies across Twitter and Weibo domains. 
 
 ### Related Work
-A team at HKUST has released a [Twitter dataset](https://github.com/ehsanulhaq1/russo_ukraine_dataset) on the Russo-Ukranian Crises.
+A team at HKUST has released a [Russo-Ukranian Crises Twitter dataset](https://github.com/ehsanulhaq1/russo_ukraine_dataset). Check it out if you're interested.
 
 ## References
 If you found our dataset and work helpful, please cite:
