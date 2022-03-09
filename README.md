@@ -15,7 +15,7 @@ We initiated our data collection process on the last week of Feb, 2022 when the 
 | post metdata  | the \# of likes and shares on the post      |
 | post comments | information similar to the previous three rows, for all comments underneath a user post      |
 
-We are continueing the data collection process to follow the latest development of events in the ongoing crisis, and will update our dataset daily. 
+We are continuing the data collection process to follow the latest development of events in the ongoing crisis, and will update our dataset daily. 
 
 ### Use Cases
 There are many interesting task settings that can be experimented with, using our Russo-Ukranian Crises Weibo dataset. These include event clustering, false rumor detection, and portability of news analytic methodologies across Twitter and Weibo domains. 
