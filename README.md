@@ -1,7 +1,7 @@
 # Russia Ukraine Weibo Crisis (RUW) Dataset
 
 
-Download link is [here](https://uofi.box.com/s/qn99omy53muyi9a4z72s4qktx3h3gzvz).
+Download link for the dataset is [here](https://uofi.box.com/s/qn99omy53muyi9a4z72s4qktx3h3gzvz).
 
 ### Motivation
 Online social networks such as Twitter and Weibo play an important role in how people stay informed and exchange reactions. In particular, online social networks during crisis events embody a key opportunity for studying the portability of computational models for various tasks (e.g., information extraction, complex event understanding, misinformation detection, etc.), due to differences in domain, entities, and event types. We present the **Russia-Ukraine Crisis Weibo (RUW) dataset**, with over 3.5M user posts and comments in our first release.
