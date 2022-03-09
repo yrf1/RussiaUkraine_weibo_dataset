@@ -25,7 +25,7 @@ There are many interesting task settings that can be experimented with, using ou
 A team at HKUST has released a [Russo-Ukranian Crises Twitter dataset](https://github.com/ehsanulhaq1/russo_ukraine_dataset). Check it out if you're interested.
 
 ## References
-If you found our dataset and work helpful, please cite:
+If you find our dataset \& work helpful, please cite:
 ```
 @misc{fung22ruw,
   title={A Weibo Dataset for the 2022 Russo-Ukrainian Crisis},
