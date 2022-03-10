@@ -9,7 +9,7 @@ Online social networks such as Twitter and Weibo play an important role in how p
 <img src="east_europe_map.png" width="200">
 
 ### Dataset Details
-We initiated our data collection process on the last week of Feb, 2022 when the crisis escalated with Russia's special military operation. The following information are included in the *Russia-Ukraine Crisis Weibo (RUW)* dataset:
+We initiated our data collection process when the crisis escalated with Russia's special military operation on the last week of Feb 2022. The following information are included in the *Russia-Ukraine Crisis Weibo (RUW)* dataset:
 |      |  |
 | ----------- | ----------- |
 | user information     | profile ID, profile name, profile image, profile description, \# of followers     |
@@ -17,7 +17,13 @@ We initiated our data collection process on the last week of Feb, 2022 when the 
 | post metadata  | the \# of likes \& shares on the post, and the publication timestamp of the post    |
 | post comments | information similar to the previous three rows, for all comments underneath a user post      |
 
-We are continuing the data collection process to follow the latest development of events in the ongoing crisis, and will update our dataset daily. 
+We are continuing the data collection process to follow the latest development of events in the ongoing crisis, and will update our dataset daily. At present, our dataset statistics is summarized as below:
+| (prior to one-hop expansion) |  |
+| ----------- | ----------- |
+| # Unique Posts w/ Relevant Keywords | 36,840 |
+| # Users for these Unique Posts  | 137 |
+| # Corresponding Comments in Total | 3.5 M |
+| # Users Altogether, w/ Comments Included | 107,797     
 
 ### Use Cases
 There are many interesting task settings that can be experimented with, using our Russo-Ukranian Crises Weibo dataset. These include event clustering, false rumor detection, portability of news analytic methodologies across Twitter and Weibo domains, amongst many more. 
