@@ -23,7 +23,11 @@ We are continuing the data collection process to follow the latest development o
 | # Unique Posts w/ Relevant Keywords | 36,840 |
 | # Users for these Unique Posts  | 137 |
 | # Corresponding Comments in Total | 3.5 M |
-| # Users Altogether, w/ Comments Included | 107,797     
+| # Users Altogether, w/ Comments Included | 107,797    
+| | |
+| Avg # Like/Reacts per Posts | 4338 |
+| Avg # Shares per Post | 163 |
+| | |
 
 ### Use Cases
 There are many interesting task settings that can be experimented with, using our Russo-Ukranian Crises Weibo dataset. These include event clustering, false rumor detection, portability of news analytic methodologies across Twitter and Weibo domains, amongst many more. 
