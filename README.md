@@ -1,4 +1,4 @@
-# Russia Ukraine Weibo Crisis (RUW) Dataset
+# Russia Ukraine Crisis Weibo (RUW) Dataset
 
 
 Download link for the dataset is [here](https://uofi.box.com/s/qn99omy53muyi9a4z72s4qktx3h3gzvz).
