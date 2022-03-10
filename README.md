@@ -22,8 +22,8 @@ We are continuing the data collection process to follow the latest development o
 | ----------- | ----------- |
 | # Unique Posts w/ Relevant Keywords | 36,840 |
 | # Users for these Unique Posts  | 137 |
-| # Corresponding Comments in Total | 3.5 M |
-| # Users Altogether, w/ Comments Included | 107,797    
+| # Corresponding Comments in Total | 3.8 M |
+| # Users Altogether, w/ Comments Included | 122 K    
 | | |
 | Avg # Like/Reacts per Posts | 4338 |
 | Avg # Shares per Post | 163 |
