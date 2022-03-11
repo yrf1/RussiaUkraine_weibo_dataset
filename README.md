@@ -20,16 +20,16 @@ We initiated our data collection process when the crisis escalated with Russia's
 We are continuing the data collection process to follow the latest development of events in the ongoing crisis, and will update our dataset daily. At present, our dataset statistics is summarized as below:
 | (prior to one-hop expansion) |  |
 | ----------- | ----------- |
-| # Unique Posts w/ Relevant Keywords | 36,840 |
-| # Users for these Unique Posts  | 137 |
-| # Corresponding Comments in Total | 3.8 M |
+| # Unique Posts w/ Relevant Keywords | 40,865 |
+| # Users for these Unique Posts  | 145 |
+| # Corresponding Comments in Total | 4.1 M |
 | # Users Altogether, w/ Comments Included | 122 K    
 | | |
 | Avg # Like/Reacts per Posts | 4338 |
 | Avg # Shares per Post | 163 |
 | | |
 
-Keywords: *俄罗斯 (Russia), 乌克兰 (Ukraine), 普京 (Putin), 泽连斯基 (Zelenskyy), 基辅 (Kiev), 北约 (Nato), 车臣 (Chechen), 俄乌 (Russia-Ukraine), 俄方 (Russian side), 乌方 (Ukraine side), 俄军 (Russia army), 乌军 (Ukraine army)*
+Keywords: *俄罗斯 (Russia), 乌克兰 (Ukraine), 普京 (Putin), 泽连斯基 (Zelenskyy), 基辅 (Kiev), 北约 (Nato), 车臣 (Chechen), 俄乌 (Russia-Ukraine), 俄方 (Russian side), 乌方 (Ukraine side), 俄军 (Russia army), 乌军 (Ukraine army), 哈尔科夫(Kharkiv), 敖德萨(Odesa), 切尔诺贝(Chernobyl)*
 ### Use Cases
 There are many interesting task settings that can be experimented with, using our Russo-Ukranian Crises Weibo dataset. These include event clustering, false rumor detection, portability of news analytic methodologies across Twitter and Weibo domains, amongst many more. 
 
