@@ -20,7 +20,7 @@ We initiated our data collection process when the crisis escalated with Russia's
 We are continuing the data collection process to follow the latest development of events in the ongoing crisis, and will update our dataset daily. At present, our dataset statistics is summarized as below:
 | (prior to one-hop expansion) |  |
 | ----------- | ----------- |
-| # Unique Posts w/ Relevant Keywords | 51,842 |
+| # Unique Posts w/ Relevant Keywords | 54,094 |
 | # Users for these Unique Posts  | 145 |
 | # Corresponding Comments in Total | 4.1 M |
 | # Users Altogether, w/ Comments Included | 122 K    
