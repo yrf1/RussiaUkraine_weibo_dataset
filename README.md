@@ -37,7 +37,7 @@ There are many interesting task settings that can be experimented with, using ou
 A team at HKUST has released a [Russo-Ukranian Crises Twitter dataset](https://github.com/ehsanulhaq1/russo_ukraine_dataset). It is generally interesting to uncover patterns universal across platforms, regulated by a separate set of rules and participated by a separate set of users with different user behavior. Note that Twitter data (multilingual) involves English as the primary language, while Weibo data involves Chinese as the primary language.
 
 ## References
-If you find our dataset \& work helpful, please cite:
+If you use our dataset or find our work helpful, please cite:
 ```
 @article{fung2022weibo,
   title={A Weibo Dataset for the 2022 Russo-Ukrainian Crisis},
