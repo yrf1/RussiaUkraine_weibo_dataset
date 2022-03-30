@@ -39,11 +39,10 @@ A team at HKUST has released a [Russo-Ukranian Crises Twitter dataset](https://g
 ## References
 If you find our dataset \& work helpful, please cite:
 ```
-@misc{fung22ruw,
+@article{fung2022weibo,
   title={A Weibo Dataset for the 2022 Russo-Ukrainian Crisis},
-  author={Fung, Yi and Ji, Heng},
-  booktitle={Arxiv},
-  pages={01--02},
+  author={Fung, Yi R and Ji, Heng},
+  journal={arXiv preprint arXiv:2203.05967},
   year={2022}
 }
 ```
