@@ -30,6 +30,9 @@ We are continuing the data collection process to follow the latest development o
 | | |
 
 Keywords: *俄罗斯 (Russia), 乌克兰 (Ukraine), 普京 (Putin), 泽连斯基 (Zelenskyy), 基辅 (Kiev), 北约 (Nato), 车臣 (Chechen), 俄乌 (Russia-Ukraine), 俄方 (Russian side), 乌方 (Ukraine side), 俄军 (Russia army), 乌军 (Ukraine army), 哈尔科夫 (Kharkiv), 敖德萨 (Odesa), 切尔诺贝 (Chernobyl)*
+
+**Data Usage Guidelines:** We declare the ownership of the source data to the corresponding media source and social media users who created this kind of public User Generated Content (UGC), and we only collect, organize and filter them. 如有这方面问题的反馈，可像作者沟通。
+
 ### Use Cases
 There are many interesting task settings that can be experimented with, using our Russo-Ukranian Crises Weibo dataset. These include event clustering, false rumor detection, portability of news analytic methodologies across Twitter and Weibo domains, amongst many more. 
 
