@@ -20,7 +20,7 @@ We initiated our data collection process when the crisis escalated with Russia's
 We are continuing the data collection process to follow the latest development of events in the ongoing crisis, and will update our dataset daily. At present, our dataset statistics is summarized as below:
 | (prior to one-hop expansion) |  |
 | ----------- | ----------- |
-| # Unique Posts w/ Relevant Keywords | 90,000 |
+| # Unique Posts w/ Relevant Keywords | 100 K |
 | # Users for these Unique Posts  | 165 |
 | # Corresponding Comments in Total | 3.4 M |
 | # Users Altogether, w/ Comments Included | 122 K    
@@ -34,7 +34,7 @@ Keywords: *俄罗斯 (Russia), 乌克兰 (Ukraine), 普京 (Putin), 泽连斯基
 ### Use Cases
 There are many interesting task settings that can be experimented with, using our Russo-Ukranian Crises Weibo dataset. These include event clustering, false rumor detection, portability of news analytic methodologies across Twitter and Weibo domains, amongst many more. 
 
-**Data Usage Guidelines:** We declare the ownership of the source data to the corresponding media source and social media users who created this kind of public User Generated Content (UGC), and we only collect, organize and filter them. 如有这方面问题的反馈，请像作者沟通。
+**Data Usage Guidelines:** We declare the ownership of the source data to the corresponding media source and social media users who created this kind of public User Generated Content (UGC), and we only collect, organize and filter them. 如有这方面的问题反馈，请像作者沟通（会重视和配合的）～谢谢。
 
 ### Related Work
 A team at HKUST has released a [Russo-Ukranian Crises Twitter dataset](https://github.com/ehsanulhaq1/russo_ukraine_dataset). It is generally interesting to uncover patterns universal across platforms, regulated by a separate set of rules and participated by a separate set of users with different user behavior. Note that Twitter data (multilingual) involves English as the primary language, while Weibo data involves Chinese as the primary language.
