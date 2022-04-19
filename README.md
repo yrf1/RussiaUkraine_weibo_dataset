@@ -21,7 +21,7 @@ We are continuing the data collection process to follow the latest development o
 | (prior to one-hop expansion) |  |
 | ----------- | ----------- |
 | # Unique Posts w/ Relevant Keywords | 123 K |
-| # Users for these Unique Posts  | 165 |
+| # Users for these Unique Posts  | 200 |
 | # Corresponding Comments in Total | 3.4 M |
 | # Users Altogether, w/ Comments Included | 122 K    
 | | |
